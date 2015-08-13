@@ -11,4 +11,15 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="home_activitys">Actividades</string>
+    <string name="home_location">Lugares</string>
+    <string name="home_promotions">Promociones</string>
+    <string name="home_profile">Perfil</string>
+    <string name="geofence_not_available">Geofence no disponible</string>
+    <string name="geofence_too_many_geofences">Demasiados geofences</string>
+    <string name="geofence_too_many_pending_intents">Demasiados PendingIntents</string>
+    <string name="unknown_geofence_error">Error Desconocido</string>
 </resources>
